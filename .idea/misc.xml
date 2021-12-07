@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/WCZG/app/src/main/res/layout/activity_frgm.xml" value="0.1265625" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/WCZG/app/src/main/res/layout/activity_main.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/WCZG/app/src/main/res/layout/activity_web.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/WCZG/app/src/main/res/layout/activity_web_test.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/WCZG/app/src/main/res/layout/fragment_cdc.xml" value="0.1265625" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/WCZG/app/src/main/res/layout/fragment_com.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/WCZG/app/src/main/res/layout/fragment_hidpos.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/WCZG/app/src/main/res/layout/main.xml" value="0.1265625" />
+        <entry key="..\:/_code_kotlin/WCZG/app/src/main/res/layout/activity_hua_wei.xml" value="0.25" />
+        <entry key="..\:/_code_kotlin/WCZG/app/src/main/res/layout/activity_main.xml" value="0.14673913043478262" />
+        <entry key="..\:/_code_kotlin/WCZG/app/src/main/res/layout/activity_select_serial_port.xml" value="0.14673913043478262" />
+        <entry key="..\:/_code_kotlin/WCZG/app/src/main/res/layout/activity_serial_port.xml" value="0.14673913043478262" />
+        <entry key="..\:/_code_kotlin/WCZG/app/src/main/res/layout/item_device.xml" value="0.14673913043478262" />
+        <entry key="..\:/_code_now/WCZG/app/src/main/res/layout/activity_hua_wei.xml" value="0.13179347826086957" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
