@@ -1,0 +1,73 @@
+Language model created by QuickLM on Tue Dec  7 08:10:50 EST 2021
+Copyright (c) 1996-2010 Carnegie Mellon University and Alexander I. Rudnicky
+
+The model is in standard ARPA format, designed by Doug Paul while he was at MITRE.
+
+The code that was used to produce this language model is available in Open Source.
+Please visit http://www.speech.cs.cmu.edu/tools/ for more information
+
+The (fixed) discount mass is 0.5. The backoffs are computed using the ratio method.
+This model based on a corpus of 12 sentences and 14 words
+
+\data\
+ngram 1=14
+ngram 2=24
+ngram 3=12
+
+\1-grams:
+-0.7782 </s> -0.3010
+-0.7782 <s> -0.2218
+-1.8573 卡 -0.2218
+-1.8573 小 -0.2218
+-1.8573 小卡 -0.2218
+-1.8573 小卡小卡 -0.2218
+-1.8573 开 -0.2218
+-1.8573 开门 -0.2218
+-1.8573 我 -0.2218
+-1.8573 我要 -0.2218
+-1.8573 我要开 -0.2218
+-1.8573 我要开门 -0.2218
+-1.8573 要 -0.2218
+-1.8573 门 -0.2218
+
+\2-grams:
+-1.3802 <s> 卡 0.0000
+-1.3802 <s> 小 0.0000
+-1.3802 <s> 小卡 0.0000
+-1.3802 <s> 小卡小卡 0.0000
+-1.3802 <s> 开 0.0000
+-1.3802 <s> 开门 0.0000
+-1.3802 <s> 我 0.0000
+-1.3802 <s> 我要 0.0000
+-1.3802 <s> 我要开 0.0000
+-1.3802 <s> 我要开门 0.0000
+-1.3802 <s> 要 0.0000
+-1.3802 <s> 门 0.0000
+-0.3010 卡 </s> -0.3010
+-0.3010 小 </s> -0.3010
+-0.3010 小卡 </s> -0.3010
+-0.3010 小卡小卡 </s> -0.3010
+-0.3010 开 </s> -0.3010
+-0.3010 开门 </s> -0.3010
+-0.3010 我 </s> -0.3010
+-0.3010 我要 </s> -0.3010
+-0.3010 我要开 </s> -0.3010
+-0.3010 我要开门 </s> -0.3010
+-0.3010 要 </s> -0.3010
+-0.3010 门 </s> -0.3010
+
+\3-grams:
+-0.3010 <s> 卡 </s>
+-0.3010 <s> 小 </s>
+-0.3010 <s> 小卡 </s>
+-0.3010 <s> 小卡小卡 </s>
+-0.3010 <s> 开 </s>
+-0.3010 <s> 开门 </s>
+-0.3010 <s> 我 </s>
+-0.3010 <s> 我要 </s>
+-0.3010 <s> 我要开 </s>
+-0.3010 <s> 我要开门 </s>
+-0.3010 <s> 要 </s>
+-0.3010 <s> 门 </s>
+
+\end\

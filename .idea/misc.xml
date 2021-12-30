@@ -16,7 +16,8 @@
         <entry key="..\:/_code_kotlin/WCZG/app/src/main/res/layout/activity_select_serial_port.xml" value="0.14673913043478262" />
         <entry key="..\:/_code_kotlin/WCZG/app/src/main/res/layout/activity_serial_port.xml" value="0.14673913043478262" />
         <entry key="..\:/_code_kotlin/WCZG/app/src/main/res/layout/item_device.xml" value="0.14673913043478262" />
-        <entry key="..\:/_code_now/WCZG/app/src/main/res/layout/activity_hua_wei.xml" value="0.13179347826086957" />
+        <entry key="..\:/_code_now/WCZG/app/src/main/res/layout/activity_hua_wei.xml" value="0.25" />
+        <entry key="..\:/_code_now/WCZG/app/src/main/res/layout/dialog.xml" value="0.12132725430597771" />
       </map>
     </option>
   </component>
@@ -25,5 +26,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.12132725430597771" />
+      </ProjectState>
+    </option>
   </component>
 </project>

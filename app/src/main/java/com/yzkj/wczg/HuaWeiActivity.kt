@@ -1,25 +1,18 @@
 package com.yzkj.wczg
 
 import android.Manifest
-import android.content.ActivityNotFoundException
-import android.content.Intent
 import android.view.View
 import com.yzkj.wczg.base.BaseActivity
 import com.yzkj.wczg.databinding.ActivityHuaWeiBinding
 import android.os.Build
-import android.os.Bundle
-import android.provider.Settings
-import android.speech.RecognitionListener
-import android.speech.RecognizerIntent
-import android.speech.SpeechRecognizer
-import android.widget.Toast
 import com.huawei.hms.mlsdk.livenessdetection.MLLivenessCapture
 import com.huawei.hms.mlsdk.livenessdetection.MLLivenessCaptureResult
 import com.yzkj.wczg.utils.SpeechUtil
-import java.util.*
+import java.net.URLDecoder
 
 
-class HuaWeiActivity : BaseActivity<ActivityHuaWeiBinding>(), View.OnClickListener{
+class HuaWeiActivity : BaseActivity<ActivityHuaWeiBinding>(), View.OnClickListener
+    {
     override fun initData() {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
             requestPermissions(
